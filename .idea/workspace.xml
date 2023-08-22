@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="server:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0d322de9-0827-439e-906f-bfbd7e96f360" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/server_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/ServerApplication.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QueryProxy/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QueryProxy/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QueryProxy/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QueryProxy/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QueryProxy/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QueryProxy/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QueryProxy/src/main/java/ru/spandco/querysign/querysignproxy/QueryProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QueryProxy/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QueryProxy/src/test/java/ru/spandco/querysign/querysignproxy/QueryProxyApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/ru/spandco/querysign/server/CMS/CMS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/ru/spandco/querysign/server/CMS/CMStools.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/ru/spandco/querysign/server/SPI/SmevTransformSpi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/ru/spandco/querysign/server/ServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/ru/spandco/querysign/server/config/ServerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/ru/spandco/querysign/server/controllers/DigSignController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/ru/spandco/querysign/server/service/CertificateStoreService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/ru/spandco/querysign/server/service/DigSignerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/test/java/ru/spandco/querysign/server/ServerApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JavaFXApplication" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/QueryProxy" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="outputLevel" value="DEBUG" />
+        <option name="useMavenConfig" value="true" />
+        <option name="usePluginRegistry" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Q0RtNz2dmG0vmNAYpzHyClezSc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "D:/GitSmevJava/Gate",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
+    "spring.configuration.checksum": "3fbdfc712362de517b09fd9789af370a",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GitSmevJava\binaryStorage\logic\src\main\resources" />
+      <recent name="D:\GitSmevJava\binaryStorage\logic\target\classes\ru\spandco\logic\storage\config" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ru.spandco.querysign.querysignproxy" />
+      <recent name="ru.spandco.binstorage.server.hub" />
+      <recent name="ru.spandco.binstorage.server.config" />
+      <recent name="config" />
+      <recent name="ru.spandco.logic.storage.config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ServerApplication (1)">
+    <configuration name="ServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.spandco.binstorage.server.ServerApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.spandco.binstorage.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="server-0.0.1-SNAPSHOT.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/server/target/server-0.0.1-SNAPSHOT.jar" />
+      <option name="VM_PARAMETERS" value="-Dcom.sun.org.apache.xml.internal.security.ignoreLineBreaks=true" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <configuration name="server-internal.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/server/target/server-internal.jar" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <configuration name="binaryStorage [clean,package...]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="compile" />
+                <option value="package" />
+                <option value="-Dmaven.test.skip" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="querysign [clean,compile,package...]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="compile" />
+                <option value="package" />
+                <option value="-Dmaven.test.skip" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="querysignServer" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="compile" />
+                <option value="package" />
+                <option value="-Dmaven.test.skip" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/server" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="BinaryStorageProxyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="binaryStorageProxy" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ru.spandco.binarystorageproxy.BinaryStorageProxyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogicApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="logic" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ru.spandco.logic.LogicApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueryProxyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="QueryProxy" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ru.spandco.querysign.querysignproxy.QueryProxyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ru.spandco.querysign.server.ServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ServerApplication" />
+      <item itemvalue="JAR Application.server-0.0.1-SNAPSHOT.jar" />
+      <item itemvalue="JAR Application.server-internal.jar" />
+      <item itemvalue="Maven.querysignServer" />
+      <item itemvalue="Maven.querysign [clean,compile,package...]" />
+      <item itemvalue="Maven.binaryStorage [clean,package...]" />
+      <item itemvalue="Spring Boot.QueryProxyApplication" />
+      <item itemvalue="Spring Boot.ServerApplication (1)" />
+      <item itemvalue="Spring Boot.BinaryStorageProxyApplication" />
+      <item itemvalue="Spring Boot.LogicApplication" />
+      <item itemvalue="Spring Boot.ServerApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.server-0.0.1-SNAPSHOT.jar" />
+        <item itemvalue="JAR Application.server-internal.jar" />
+        <item itemvalue="Application.ServerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d322de9-0827-439e-906f-bfbd7e96f360" name="Changes" comment="" />
+      <created>1684488731057</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684488731057</updated>
+      <workItem from="1684488732155" duration="3900000" />
+      <workItem from="1684739322175" duration="3393000" />
+      <workItem from="1684743132070" duration="1943000" />
+      <workItem from="1684751231419" duration="405000" />
+      <workItem from="1684815759680" duration="14888000" />
+      <workItem from="1684896802485" duration="16099000" />
+      <workItem from="1685438009242" duration="4394000" />
+      <workItem from="1685525314476" duration="972000" />
+      <workItem from="1685589728369" duration="12406000" />
+      <workItem from="1685689632014" duration="987000" />
+      <workItem from="1685696357931" duration="4203000" />
+      <workItem from="1685760543817" duration="6360000" />
+      <workItem from="1685785040885" duration="1428000" />
+      <workItem from="1685940809437" duration="7757000" />
+      <workItem from="1686119659839" duration="5000" />
+      <workItem from="1687174484935" duration="597000" />
+      <workItem from="1688095322948" duration="10864000" />
+      <workItem from="1688201163020" duration="3240000" />
+      <workItem from="1688275649473" duration="956000" />
+      <workItem from="1688374701849" duration="6397000" />
+      <workItem from="1688384717785" duration="2998000" />
+      <workItem from="1688445310479" duration="2598000" />
+      <workItem from="1688447942411" duration="6981000" />
+      <workItem from="1688548811596" duration="797000" />
+      <workItem from="1688607071983" duration="3670000" />
+      <workItem from="1688695790007" duration="6313000" />
+      <workItem from="1688968370373" duration="917000" />
+      <workItem from="1688988221991" duration="4958000" />
+      <workItem from="1689146665997" duration="10402000" />
+      <workItem from="1689220086353" duration="19511000" />
+      <workItem from="1689299249577" duration="4896000" />
+      <workItem from="1689305715554" duration="14456000" />
+      <workItem from="1689329371258" duration="1668000" />
+      <workItem from="1689568289717" duration="9401000" />
+      <workItem from="1689650713649" duration="17645000" />
+      <workItem from="1689735574943" duration="14344000" />
+      <workItem from="1689832039096" duration="7805000" />
+      <workItem from="1689915904734" duration="22056000" />
+      <workItem from="1690176113759" duration="18782000" />
+      <workItem from="1690276352041" duration="12046000" />
+      <workItem from="1690341314858" duration="8089000" />
+      <workItem from="1690356871158" duration="4285000" />
+      <workItem from="1690432309254" duration="3748000" />
+      <workItem from="1690446106835" duration="13155000" />
+      <workItem from="1690524218637" duration="7126000" />
+      <workItem from="1690791866856" duration="4581000" />
+      <workItem from="1690864450874" duration="6637000" />
+      <workItem from="1690890022129" duration="4416000" />
+      <workItem from="1690962846714" duration="3510000" />
+      <workItem from="1690973963935" duration="4666000" />
+      <workItem from="1690979067971" duration="123000" />
+      <workItem from="1690979221005" duration="2014000" />
+      <workItem from="1691033802199" duration="3207000" />
+      <workItem from="1691037179491" duration="14880000" />
+      <workItem from="1691062403856" duration="21831000" />
+      <workItem from="1691482002323" duration="2424000" />
+      <workItem from="1691484448615" duration="8209000" />
+      <workItem from="1691563280468" duration="6772000" />
+      <workItem from="1691734316341" duration="12722000" />
+      <workItem from="1691994455510" duration="9639000" />
+      <workItem from="1692180997888" duration="32026000" />
+      <workItem from="1692533973788" duration="4701000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../Utils/jcp-2.0.41789/samples/CMS_samples/DetachedSignatureFileExample.class</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.util.LinkedHashMap$Entry" memberName="value" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/QuerySign$ServerApplication__1_.ic" NAME="ServerApplication (1) Coverage Results" MODIFIED="1692346134395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
