@@ -3,7 +3,7 @@
 
 *Java 1.8 JDK openlogic-openjdk-8u372-b07 Spring 5.3.28 Java JCP 2.0 */   
 **Не забыть проинжектить JDK с помощью Java JCP 2.0**   
-Подпись XML осуществляется через *org.apache.santuario * 
+Подпись XML осуществляется через *org.apache.santuario* 
 
 Точка входа в приложение - [Вот она](https://github.com/disant9807/QuerySign/blob/master/server/src/main/java/ru/spandco/querysign/server/ServerApplication.java)
 
